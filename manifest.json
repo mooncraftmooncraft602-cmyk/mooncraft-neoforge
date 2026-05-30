@@ -1,10 +1,10 @@
 {
-    "version":  "2.1.1",
+    "version":  "2.1.2",
     "minecraft":  "1.21.1",
     "loader":  "neoforge",
-    "neoforge":  "21.1.77",
+    "neoforge":  "21.1.232",
     "java":  21,
-    "changelog":  "Moon Craft 2.1.1 - Fix biomes MoonWorld (carvers)",
+    "changelog":  "Moon Craft 2.1.2 - NeoForge 21.1.232 + retrait embeddium/sodiumoptionsapi",
     "files":  [
                   {
                       "path":  "mods/AI-Improvements-1.21-0.5.3.jar",
@@ -71,12 +71,6 @@
                       "url":  "https://github.com/mooncraftmooncraft602-cmyk/mooncraft-neoforge/releases/download/v2.0.0/cupboard-1.21-3.5.jar",
                       "sha256":  "d27298b67d74d6c95bdf1869bd60f49cfb93f33e6f14a0393be144584649c7db",
                       "size":  26659
-                  },
-                  {
-                      "path":  "mods/embeddium-1.0.15+mc1.21.1.jar",
-                      "url":  "https://github.com/mooncraftmooncraft602-cmyk/mooncraft-neoforge/releases/download/v2.0.0/embeddium-1.0.15%2Bmc1.21.1.jar",
-                      "sha256":  "3aac4c4c6e82d78d8dda4c611d68c672d1061b42bb6954331e3c2e7f14c451e1",
-                      "size":  1048745
                   },
                   {
                       "path":  "mods/entityculling-neoforge-1.10.2-mc1.21.1.jar",
@@ -245,12 +239,6 @@
                       "url":  "https://github.com/mooncraftmooncraft602-cmyk/mooncraft-neoforge/releases/download/v2.0.0/sodium-neoforge-0.6.13%2Bmc1.21.1.jar",
                       "sha256":  "7acd7af2ef75ec883a6872c17494ead65e38025151eb08a1d60e36d34377f403",
                       "size":  1162994
-                  },
-                  {
-                      "path":  "mods/sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar",
-                      "url":  "https://github.com/mooncraftmooncraft602-cmyk/mooncraft-neoforge/releases/download/v2.0.0/sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar",
-                      "sha256":  "a6b9114615e2fff97e1a99fbf9fae17b87baacb26b69dde2f423867b5932bc02",
-                      "size":  309122
                   },
                   {
                       "path":  "mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
