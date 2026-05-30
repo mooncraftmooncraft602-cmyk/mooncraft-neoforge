@@ -1,0 +1,20 @@
+[
+  {
+    "id": "2025-moon-2-0",
+    "title": "Moon Craft 2.0 — Passage NeoForge 1.21.1",
+    "subtitle": "11 mods, métiers, anti-cheat et HUD façon Helios",
+    "body": "La refonte **Moon Craft 2.0** est là !\n\n- Suite complète de **11 mods** NeoForge 1.21.1\n- **Métiers** (Mineur, Chasseur, Fermier, Alchimiste) avec quêtes journalières et jetons\n- **Anti-cheat** à paliers de sanctions et niveaux de violation\n- **HUD & interfaces** redessinés façon Helios/Paladium\n- Commandes serveur : /spawn, /home, /tpa, /shop, /ah, /metiers…\n\nBon jeu sur la Lune 🌙",
+    "image": null,
+    "tag": "Mise à jour",
+    "published_at": "2026-05-30T12:00:00Z"
+  },
+  {
+    "id": "welcome",
+    "title": "Bienvenue sur Moon Craft",
+    "subtitle": "Le serveur MMORPG lunaire",
+    "body": "Rejoins l'aventure : classes, donjons, guildes, économie et cosmétiques t'attendent.\n\nUtilise le launcher pour rester à jour automatiquement.",
+    "image": null,
+    "tag": "Info",
+    "published_at": "2026-05-20T10:00:00Z"
+  }
+]
