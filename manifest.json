@@ -1,11 +1,107 @@
 {
-    "version":  "2.0.1",
+    "version":  "2.1.1",
     "minecraft":  "1.21.1",
     "loader":  "neoforge",
     "neoforge":  "21.1.77",
     "java":  21,
-    "changelog":  "Moon Craft 2.0.1 (NeoForge 1.21.1)\n\n- Ajout des icones de grades (chat) : jeux PackRank + Juako\n- Voir RANKS.md pour le mapping caractere -\u003e grade",
+    "changelog":  "Moon Craft 2.1.1 - Fix biomes MoonWorld (carvers)",
     "files":  [
+                  {
+                      "path":  "mods/AI-Improvements-1.21-0.5.3.jar",
+                      "url":  "https://github.com/mooncraftmooncraft602-cmyk/mooncraft-neoforge/releases/download/v2.0.0/AI-Improvements-1.21-0.5.3.jar",
+                      "sha256":  "795618769ff1ac782750be9e8faaf3e3d212f1687c3baab98c1282a98a63a41e",
+                      "size":  28984
+                  },
+                  {
+                      "path":  "mods/appleskin-neoforge-mc1.21-3.0.9.jar",
+                      "url":  "https://github.com/mooncraftmooncraft602-cmyk/mooncraft-neoforge/releases/download/v2.0.0/appleskin-neoforge-mc1.21-3.0.9.jar",
+                      "sha256":  "38b48dd6231341c9f964ce6e42c57ec866c6cc8f72bec938390a59bafb3922df",
+                      "size":  75804
+                  },
+                  {
+                      "path":  "mods/architectury-13.0.8-neoforge.jar",
+                      "url":  "https://github.com/mooncraftmooncraft602-cmyk/mooncraft-neoforge/releases/download/v2.0.0/architectury-13.0.8-neoforge.jar",
+                      "sha256":  "5ec578f814e8cca87aeffa6e424032e78d9ea5ea6b603dd834c2dc13c31141ee",
+                      "size":  584004
+                  },
+                  {
+                      "path":  "mods/BadOptimizations-2.4.1-1.21.1.jar",
+                      "url":  "https://github.com/mooncraftmooncraft602-cmyk/mooncraft-neoforge/releases/download/v2.0.0/BadOptimizations-2.4.1-1.21.1.jar",
+                      "sha256":  "22e2467892d3706f43d1cf2aa637785bb8601c20b0098a82ab956e6a8fc4d2ba",
+                      "size":  283566
+                  },
+                  {
+                      "path":  "mods/BiomesOPlenty-neoforge-1.21.1-21.1.0.13.jar",
+                      "url":  "https://github.com/mooncraftmooncraft602-cmyk/mooncraft-neoforge/releases/download/v2.0.0/BiomesOPlenty-neoforge-1.21.1-21.1.0.13.jar",
+                      "sha256":  "6af75f8f41fb50a80945237930516542f5d9b5005334afdc41b393f58f18932a",
+                      "size":  22338081
+                  },
+                  {
+                      "path":  "mods/Clumps-neoforge-1.21.1-19.0.0.1.jar",
+                      "url":  "https://github.com/mooncraftmooncraft602-cmyk/mooncraft-neoforge/releases/download/v2.0.0/Clumps-neoforge-1.21.1-19.0.0.1.jar",
+                      "sha256":  "b524ccdace2ef8fd19f5b2074f7de1103ac5065c52553f064c00e098346c293e",
+                      "size":  18382
+                  },
+                  {
+                      "path":  "mods/comforts-neoforge-9.0.5+1.21.1.jar",
+                      "url":  "https://github.com/mooncraftmooncraft602-cmyk/mooncraft-neoforge/releases/download/v2.0.0/comforts-neoforge-9.0.5%2B1.21.1.jar",
+                      "sha256":  "6b0fd35a1349107e08a45539adbde9683bb203febc43a3305f6fc4ac73e59615",
+                      "size":  422658
+                  },
+                  {
+                      "path":  "mods/connectivity-1.21.1-7.6.jar",
+                      "url":  "https://github.com/mooncraftmooncraft602-cmyk/mooncraft-neoforge/releases/download/v2.0.0/connectivity-1.21.1-7.6.jar",
+                      "sha256":  "2366973ddae5ba00b9ba15a26e5b610a6648038b9f2549bf81b9ae61342b281a",
+                      "size":  114165
+                  },
+                  {
+                      "path":  "mods/corpse-neoforge-1.21.1-1.1.13.jar",
+                      "url":  "https://github.com/mooncraftmooncraft602-cmyk/mooncraft-neoforge/releases/download/v2.0.0/corpse-neoforge-1.21.1-1.1.13.jar",
+                      "sha256":  "f61e750eb2cb49867483d34d6630e02597a52e41680fc38d1c65ece4ef36fd2b",
+                      "size":  253695
+                  },
+                  {
+                      "path":  "mods/CrashAssistant-neoforge-1.20.6-1.21.4-1.11.9.jar",
+                      "url":  "https://github.com/mooncraftmooncraft602-cmyk/mooncraft-neoforge/releases/download/v2.0.0/CrashAssistant-neoforge-1.20.6-1.21.4-1.11.9.jar",
+                      "sha256":  "3d9a73e311db4966a1fed9837d7923455c85298f621bcac0d04ff3fc420fbd90",
+                      "size":  3161629
+                  },
+                  {
+                      "path":  "mods/cupboard-1.21-3.5.jar",
+                      "url":  "https://github.com/mooncraftmooncraft602-cmyk/mooncraft-neoforge/releases/download/v2.0.0/cupboard-1.21-3.5.jar",
+                      "sha256":  "d27298b67d74d6c95bdf1869bd60f49cfb93f33e6f14a0393be144584649c7db",
+                      "size":  26659
+                  },
+                  {
+                      "path":  "mods/embeddium-1.0.15+mc1.21.1.jar",
+                      "url":  "https://github.com/mooncraftmooncraft602-cmyk/mooncraft-neoforge/releases/download/v2.0.0/embeddium-1.0.15%2Bmc1.21.1.jar",
+                      "sha256":  "3aac4c4c6e82d78d8dda4c611d68c672d1061b42bb6954331e3c2e7f14c451e1",
+                      "size":  1048745
+                  },
+                  {
+                      "path":  "mods/entityculling-neoforge-1.10.2-mc1.21.1.jar",
+                      "url":  "https://github.com/mooncraftmooncraft602-cmyk/mooncraft-neoforge/releases/download/v2.0.0/entityculling-neoforge-1.10.2-mc1.21.1.jar",
+                      "sha256":  "20014df18edb983b2c8eb764e70209ef84a4ac5aefd29ef25502fb102b0306cd",
+                      "size":  1582824
+                  },
+                  {
+                      "path":  "mods/FastFurnace-1.21.1-9.0.1.jar",
+                      "url":  "https://github.com/mooncraftmooncraft602-cmyk/mooncraft-neoforge/releases/download/v2.0.0/FastFurnace-1.21.1-9.0.1.jar",
+                      "sha256":  "4a8743c5d870aa9885d65e20d728c76fec894e01e81d1b49ef0f4459a67f0eea",
+                      "size":  4623
+                  },
+                  {
+                      "path":  "mods/ferritecore-7.0.3-neoforge.jar",
+                      "url":  "https://github.com/mooncraftmooncraft602-cmyk/mooncraft-neoforge/releases/download/v2.0.0/ferritecore-7.0.3-neoforge.jar",
+                      "sha256":  "d87ea28262715ebff45b8a82d493e6b468e7a4521bc021df5d88302196d030a8",
+                      "size":  121559
+                  },
+                  {
+                      "path":  "mods/fusion-1.2.12-neoforge-mc1.21.1.jar",
+                      "url":  "https://github.com/mooncraftmooncraft602-cmyk/mooncraft-neoforge/releases/download/v2.0.0/fusion-1.2.12-neoforge-mc1.21.1.jar",
+                      "sha256":  "5961f78d85b7bd88205bc65c9f8182bc041646aa3579fa39810878d9b5b87c0c",
+                      "size":  532912
+                  },
                   {
                       "path":  "mods/geckolib-neoforge-1.21.1-4.7.7.jar",
                       "url":  "https://github.com/mooncraftmooncraft602-cmyk/mooncraft-neoforge/releases/download/v2.0.0/geckolib-neoforge-1.21.1-4.7.7.jar",
@@ -13,10 +109,46 @@
                       "size":  593507
                   },
                   {
+                      "path":  "mods/GlitchCore-neoforge-1.21.1-2.1.0.2.jar",
+                      "url":  "https://github.com/mooncraftmooncraft602-cmyk/mooncraft-neoforge/releases/download/v2.0.0/GlitchCore-neoforge-1.21.1-2.1.0.2.jar",
+                      "sha256":  "d9ea421e7449a35cf3adc41c9f740156342b7b17a08b1be843660608af7b60f9",
+                      "size":  90717
+                  },
+                  {
+                      "path":  "mods/gpumemleakfix-1.21-1.8.jar",
+                      "url":  "https://github.com/mooncraftmooncraft602-cmyk/mooncraft-neoforge/releases/download/v2.0.0/gpumemleakfix-1.21-1.8.jar",
+                      "sha256":  "4bd0682e26b8d4ba78442ce8d969fc7fa3cac2c21fc600de34a54b2ff7814931",
+                      "size":  6574
+                  },
+                  {
+                      "path":  "mods/ImmediatelyFast-NeoForge-1.6.10+1.21.1.jar",
+                      "url":  "https://github.com/mooncraftmooncraft602-cmyk/mooncraft-neoforge/releases/download/v2.0.0/ImmediatelyFast-NeoForge-1.6.10%2B1.21.1.jar",
+                      "sha256":  "9fbb8dce1bb72feacdc3b75c6fcbf689865ad3793a19649443d76be20993ddd0",
+                      "size":  368598
+                  },
+                  {
+                      "path":  "mods/Jade-1.21.1-NeoForge-15.10.5.jar",
+                      "url":  "https://github.com/mooncraftmooncraft602-cmyk/mooncraft-neoforge/releases/download/v2.0.0/Jade-1.21.1-NeoForge-15.10.5.jar",
+                      "sha256":  "067bb4b007e1d6f6b79f0afe99c91252aa825472b99a76d33a60d24442f9e92d",
+                      "size":  725742
+                  },
+                  {
+                      "path":  "mods/lithium-neoforge-0.15.3+mc1.21.1.jar",
+                      "url":  "https://github.com/mooncraftmooncraft602-cmyk/mooncraft-neoforge/releases/download/v2.0.0/lithium-neoforge-0.15.3%2Bmc1.21.1.jar",
+                      "sha256":  "a6548862bd13ff8eea6747cf61df50c8374a16a22d067614e414ed600eee6d83",
+                      "size":  774148
+                  },
+                  {
+                      "path":  "mods/modernfix-neoforge-5.27.11+mc1.21.1.jar",
+                      "url":  "https://github.com/mooncraftmooncraft602-cmyk/mooncraft-neoforge/releases/download/v2.0.0/modernfix-neoforge-5.27.11%2Bmc1.21.1.jar",
+                      "sha256":  "bfc54bfb49b94dd33bc11f6f433f3d982413594baca7d3a58a0c06b2ab0cc145",
+                      "size":  587995
+                  },
+                  {
                       "path":  "mods/mooncombat-1.0.0.jar",
                       "url":  "https://github.com/mooncraftmooncraft602-cmyk/mooncraft-neoforge/releases/download/v2.0.0/mooncombat-1.0.0.jar",
-                      "sha256":  "5a20189a0fa3a486241bebc9570a9014156d6f4ef8f39db90e981ff777c7904e",
-                      "size":  25480
+                      "sha256":  "9176f4bc79c999bc0c72f4a332a24b40e146a9fc1b211964d696d2b32800c415",
+                      "size":  26399
                   },
                   {
                       "path":  "mods/mooncore-1.0.0.jar",
@@ -39,8 +171,8 @@
                   {
                       "path":  "mods/mooneconomy-1.0.0.jar",
                       "url":  "https://github.com/mooncraftmooncraft602-cmyk/mooncraft-neoforge/releases/download/v2.0.0/mooneconomy-1.0.0.jar",
-                      "sha256":  "7fe9e34cbea14709727e2621ff2d6ff44f207536a5d358e7c5b0c403c4e7bde3",
-                      "size":  41077
+                      "sha256":  "7a8de97623de973cefa9a8246c208fe413c5fd4d786d47029fb7e925fc732f15",
+                      "size":  41124
                   },
                   {
                       "path":  "mods/moonessentials-1.0.0.jar",
@@ -63,8 +195,8 @@
                   {
                       "path":  "mods/moonjobs-1.0.0.jar",
                       "url":  "https://github.com/mooncraftmooncraft602-cmyk/mooncraft-neoforge/releases/download/v2.0.0/moonjobs-1.0.0.jar",
-                      "sha256":  "11344e232f605c49b36a41899538b3b6c34f253885a74d2a74a1e0bdbd23b440",
-                      "size":  50962
+                      "sha256":  "097666c2dfd5b02f83858135415bc75aeec2fc140d02cfe4e9f4a3773049fda9",
+                      "size":  50976
                   },
                   {
                       "path":  "mods/moonquests-1.0.0.jar",
@@ -75,8 +207,62 @@
                   {
                       "path":  "mods/moonworld-1.0.0.jar",
                       "url":  "https://github.com/mooncraftmooncraft602-cmyk/mooncraft-neoforge/releases/download/v2.0.0/moonworld-1.0.0.jar",
-                      "sha256":  "8fa290dde98f5ef76df3eafa6021fb315e00ef2043da6bacaa0e2cf8f28ef8c7",
-                      "size":  19925
+                      "sha256":  "8ac49788f013d25d90519a9aca18a4de5a9c738ee812932165fb5f8e8258310e",
+                      "size":  19924
+                  },
+                  {
+                      "path":  "mods/MoreAndMoreArmorNEOFORGE1211UPDATE.jar",
+                      "url":  "https://github.com/mooncraftmooncraft602-cmyk/mooncraft-neoforge/releases/download/v2.0.0/MoreAndMoreArmorNEOFORGE1211UPDATE.jar",
+                      "sha256":  "1a34ed04565e89e88f400957a5b0738d7959800a4860a7f7ee7fa948ec8659ab",
+                      "size":  562384
+                  },
+                  {
+                      "path":  "mods/packetfixer-3.3.1-1.20.5-1.21.X-merged.jar",
+                      "url":  "https://github.com/mooncraftmooncraft602-cmyk/mooncraft-neoforge/releases/download/v2.0.0/packetfixer-3.3.1-1.20.5-1.21.X-merged.jar",
+                      "sha256":  "2979a8a3f44e5d5df4f9f6315d18c220f3debf736bb8a2c2740acdfb13bd820f",
+                      "size":  46623
+                  },
+                  {
+                      "path":  "mods/Placebo-1.21.1-9.9.1.jar",
+                      "url":  "https://github.com/mooncraftmooncraft602-cmyk/mooncraft-neoforge/releases/download/v2.0.0/Placebo-1.21.1-9.9.1.jar",
+                      "sha256":  "42c90bc43800558b9322bd60faa9011d6694e66a87b7e6b3b9f51fa735b527ea",
+                      "size":  324056
+                  },
+                  {
+                      "path":  "mods/Searchables-neoforge-1.21.1-1.0.2.jar",
+                      "url":  "https://github.com/mooncraftmooncraft602-cmyk/mooncraft-neoforge/releases/download/v2.0.0/Searchables-neoforge-1.21.1-1.0.2.jar",
+                      "sha256":  "ca193f0c69033d8f709f9e073a7c1ef4ea46714e5c2f94eb23ace12781c6aa68",
+                      "size":  77326
+                  },
+                  {
+                      "path":  "mods/smoothchunk-1.21-4.1.jar",
+                      "url":  "https://github.com/mooncraftmooncraft602-cmyk/mooncraft-neoforge/releases/download/v2.0.0/smoothchunk-1.21-4.1.jar",
+                      "sha256":  "a79f06eaffe7e5b834620da3c2cdad782aeaf4f1f207d03f8b0228a20bab65e3",
+                      "size":  12852
+                  },
+                  {
+                      "path":  "mods/sodium-neoforge-0.6.13+mc1.21.1.jar",
+                      "url":  "https://github.com/mooncraftmooncraft602-cmyk/mooncraft-neoforge/releases/download/v2.0.0/sodium-neoforge-0.6.13%2Bmc1.21.1.jar",
+                      "sha256":  "7acd7af2ef75ec883a6872c17494ead65e38025151eb08a1d60e36d34377f403",
+                      "size":  1162994
+                  },
+                  {
+                      "path":  "mods/sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar",
+                      "url":  "https://github.com/mooncraftmooncraft602-cmyk/mooncraft-neoforge/releases/download/v2.0.0/sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar",
+                      "sha256":  "a6b9114615e2fff97e1a99fbf9fae17b87baacb26b69dde2f423867b5932bc02",
+                      "size":  309122
+                  },
+                  {
+                      "path":  "mods/TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
+                      "url":  "https://github.com/mooncraftmooncraft602-cmyk/mooncraft-neoforge/releases/download/v2.0.0/TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
+                      "sha256":  "edb34c388fe17ea88d0a7fd11174bbf8ae8f28a4c8ce886f1bf9a5cf0ebc36b8",
+                      "size":  120364
+                  },
+                  {
+                      "path":  "mods/voicechat-neoforge-1.21.1-2.6.18.jar",
+                      "url":  "https://github.com/mooncraftmooncraft602-cmyk/mooncraft-neoforge/releases/download/v2.0.0/voicechat-neoforge-1.21.1-2.6.18.jar",
+                      "sha256":  "fb0dc1f4bb36f471fafc86fee12b963f036ddf8d4622653509d884bbed96b1e5",
+                      "size":  4902837
                   },
                   {
                       "path":  "resourcepacks/MoonCraft-ResourcePack.zip",
