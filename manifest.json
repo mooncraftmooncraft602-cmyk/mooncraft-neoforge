@@ -1,10 +1,10 @@
 {
-    "version":  "2.0.0",
+    "version":  "2.0.1",
     "minecraft":  "1.21.1",
     "loader":  "neoforge",
     "neoforge":  "21.1.77",
     "java":  21,
-    "changelog":  "Moon Craft 2.0.0 (NeoForge 1.21.1)\n\n- Suite complete de 11 mods MMORPG + GeckoLib\n- HUD/GUI style Helios/Paladium\n- Metiers, anti-cheat Argus-like, commandes serveur\n- Resource pack officiel",
+    "changelog":  "Moon Craft 2.0.1 (NeoForge 1.21.1)\n\n- Ajout des icones de grades (chat) : jeux PackRank + Juako\n- Voir RANKS.md pour le mapping caractere -\u003e grade",
     "files":  [
                   {
                       "path":  "mods/geckolib-neoforge-1.21.1-4.7.7.jar",
@@ -81,8 +81,8 @@
                   {
                       "path":  "resourcepacks/MoonCraft-ResourcePack.zip",
                       "url":  "https://github.com/mooncraftmooncraft602-cmyk/mooncraft-neoforge/releases/download/v2.0.0/MoonCraft-ResourcePack.zip",
-                      "sha256":  "4f309373801d5e659044824344a20b8b4bc3b3c90c6787f5c3807c1e14dcfecf",
-                      "size":  4386
+                      "sha256":  "3c68b9a8c9549734ffd12fba656d699a74f0c322a8aca166b7b82692d83f2e75",
+                      "size":  153943
                   }
               ]
 }
