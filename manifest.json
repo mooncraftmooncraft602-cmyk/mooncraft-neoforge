@@ -1,10 +1,10 @@
 {
-    "version":  "2.1.8",
+    "version":  "2.1.9",
     "minecraft":  "1.21.1",
     "loader":  "neoforge",
     "neoforge":  "21.1.232",
     "java":  21,
-    "changelog":  "Moon Craft 2.1.8 - interfaces affinées (SkillTree, textes nets), fix client bloqué en 2.1.4",
+    "changelog":  "Moon Craft 2.1.9 - textures GUI bleu-acier (coffres/menus), resource pack auto",
     "files":  [
                   {
                       "path":  "mods/AI-Improvements-1.21-0.5.3.jar",
@@ -255,8 +255,8 @@
                   {
                       "path":  "resourcepacks/MoonCraft-ResourcePack.zip",
                       "url":  "https://github.com/mooncraftmooncraft602-cmyk/mooncraft-neoforge/releases/download/v2.0.0/MoonCraft-ResourcePack.zip",
-                      "sha256":  "b61d042f0d4171737e366e93c9aab95c2b17e0c0ca4cdcdce1e2db4f844c8040",
-                      "size":  316174
+                      "sha256":  "db5a57f89092fd5f523eef0712fd3090f8be48230ddfb834b0468a71c3d7df37",
+                      "size":  329905
                   }
               ]
 }
