@@ -1,10 +1,10 @@
 {
-    "version":  "2.1.5",
+    "version":  "2.1.6",
     "minecraft":  "1.21.1",
     "loader":  "neoforge",
     "neoforge":  "21.1.232",
     "java":  21,
-    "changelog":  "Moon Craft 2.1.5 - boutique (categories/tri/defilement) + /sellgui + HUD argent + textures lunaires + fix HUD/metiers + /ec /craft /anvil + fix donjon (ocean) + /rtp securise",
+    "changelog":  "Moon Craft 2.1.6 - /abilityshop (aptitudes + cooldown HUD) + verrou serveur anti-piratage + /openinv + commandes anti-cheat staff (freeze/vanish/alerts/panic/tpto)",
     "files":  [
                   {
                       "path":  "mods/AI-Improvements-1.21-0.5.3.jar",
@@ -141,14 +141,14 @@
                   {
                       "path":  "mods/mooncombat-1.0.0.jar",
                       "url":  "https://github.com/mooncraftmooncraft602-cmyk/mooncraft-neoforge/releases/download/v2.0.0/mooncombat-1.0.0.jar",
-                      "sha256":  "9176f4bc79c999bc0c72f4a332a24b40e146a9fc1b211964d696d2b32800c415",
-                      "size":  26399
+                      "sha256":  "4e5aed029b5edd0e255d7dabcb958c066799803d3d137e3a3b2f561ba6949ec2",
+                      "size":  69045
                   },
                   {
                       "path":  "mods/mooncore-1.0.0.jar",
                       "url":  "https://github.com/mooncraftmooncraft602-cmyk/mooncraft-neoforge/releases/download/v2.0.0/mooncore-1.0.0.jar",
-                      "sha256":  "5ac8c5543e96567c72414e34296c8df1b5711ab61b5bedca6bc4bff496c548b2",
-                      "size":  38046
+                      "sha256":  "2defe8cd8ed186abfdc5bf4b38754a5521436e2237ed21b2f84426dfde421666",
+                      "size":  46943
                   },
                   {
                       "path":  "mods/mooncosmetics-1.0.0.jar",
@@ -171,14 +171,14 @@
                   {
                       "path":  "mods/moonessentials-1.0.0.jar",
                       "url":  "https://github.com/mooncraftmooncraft602-cmyk/mooncraft-neoforge/releases/download/v2.0.0/moonessentials-1.0.0.jar",
-                      "sha256":  "ead3ebe08acbfa75287353562b2123bc2e88ae45f5323ad5b7c44ff2070fe436",
-                      "size":  28831
+                      "sha256":  "4c4c01a9c8ae812d40614bc0a416213be6defd734aec8a29887a02738eca2090",
+                      "size":  32657
                   },
                   {
                       "path":  "mods/moonguard-1.0.0.jar",
                       "url":  "https://github.com/mooncraftmooncraft602-cmyk/mooncraft-neoforge/releases/download/v2.0.0/moonguard-1.0.0.jar",
-                      "sha256":  "51b2a20b18b43039c10c0f7b933298abd1b4576862306f352251ea5e65b56c3c",
-                      "size":  29420
+                      "sha256":  "a27dc57e83309562d753888c89d1fba98a5edbc929276d9073c204a7ba55a847",
+                      "size":  38309
                   },
                   {
                       "path":  "mods/moonguildes-1.0.0.jar",
