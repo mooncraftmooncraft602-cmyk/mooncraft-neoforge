@@ -1,10 +1,10 @@
 {
-    "version":  "2.2.2",
+    "version":  "2.2.3",
     "minecraft":  "1.21.1",
     "loader":  "neoforge",
     "neoforge":  "21.1.232",
     "java":  21,
-    "changelog":  "Moon Craft 2.2.1 - Ajout stockages MoonWorld: hoppers Cristal/Asterite/Nebuline transferant jusqu a 64 items par cycle, coffres 9x4/9x5/9x6, recettes, drops et apparition dans les onglets creatifs.",
+    "changelog":  "Moon Craft 2.2.3 - anti-cheat: plus de faux positifs vitesse (sprint/saut) ni sur les capacites + resource pack force",
     "files":  [
                   {
                       "path":  "mods/AI-Improvements-1.21-0.5.3.jar",
@@ -141,14 +141,14 @@
                   {
                       "path":  "mods/mooncombat-1.0.0.jar",
                       "url":  "https://github.com/mooncraftmooncraft602-cmyk/mooncraft-neoforge/releases/download/v2.0.0/mooncombat-1.0.0.jar",
-                      "sha256":  "095a4fe9d7ae4b9904c3feb89839934764a71e20fdee78051ac41cf420c989ef",
-                      "size":  85200
+                      "sha256":  "09926c148b580227a685f8788933ebb3400940014ba797d54851c1eb96def384",
+                      "size":  85457
                   },
                   {
                       "path":  "mods/mooncore-1.0.0.jar",
                       "url":  "https://github.com/mooncraftmooncraft602-cmyk/mooncraft-neoforge/releases/download/v2.0.0/mooncore-1.0.0.jar",
-                      "sha256":  "cdbf31ef00b61a71cba04a0a815d1fbcc860e74841066f7f9bfd1e8496f70c63",
-                      "size":  61540
+                      "sha256":  "2cd553dbcca4a7c755e076c0c6aba9ac37d9b2117279733e7b82f2d8774e8a26",
+                      "size":  62698
                   },
                   {
                       "path":  "mods/mooncosmetics-1.0.0.jar",
@@ -177,8 +177,8 @@
                   {
                       "path":  "mods/moonguard-1.0.0.jar",
                       "url":  "https://github.com/mooncraftmooncraft602-cmyk/mooncraft-neoforge/releases/download/v2.0.0/moonguard-1.0.0.jar",
-                      "sha256":  "701aff90c7352801460b060118bac0e216885d3bfb9129cec525586f0c01941e",
-                      "size":  42073
+                      "sha256":  "197e794d4669d58f37931ca4831d7b49fc3b8b08c4c544b3e3c51d0ae72c9022",
+                      "size":  42241
                   },
                   {
                       "path":  "mods/moonguildes-1.0.0.jar",
