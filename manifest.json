@@ -1,10 +1,10 @@
 {
-    "version":  "2.1.3",
+    "version":  "2.1.4",
     "minecraft":  "1.21.1",
     "loader":  "neoforge",
     "neoforge":  "21.1.232",
     "java":  21,
-    "changelog":  "Moon Craft 2.1.3 - MoonCore: marqueur de connexion (overlay launcher)",
+    "changelog":  "Moon Craft 2.1.4 - verrou resource packs + marqueur connexion",
     "files":  [
                   {
                       "path":  "mods/AI-Improvements-1.21-0.5.3.jar",
@@ -147,8 +147,8 @@
                   {
                       "path":  "mods/mooncore-1.0.0.jar",
                       "url":  "https://github.com/mooncraftmooncraft602-cmyk/mooncraft-neoforge/releases/download/v2.0.0/mooncore-1.0.0.jar",
-                      "sha256":  "e7ce8eeabff9538f11360735d7fb6a3466ff93b640b358938f6c2c7f92db2979",
-                      "size":  37353
+                      "sha256":  "f49774051b2e90ce352c521cf74dfe219ac3af7fa273cdd2ea3580290e00f028",
+                      "size":  38020
                   },
                   {
                       "path":  "mods/mooncosmetics-1.0.0.jar",
