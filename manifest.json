@@ -1,10 +1,10 @@
 {
-    "version":  "2.1.2",
+    "version":  "2.1.3",
     "minecraft":  "1.21.1",
     "loader":  "neoforge",
     "neoforge":  "21.1.232",
     "java":  21,
-    "changelog":  "Moon Craft 2.1.2 - NeoForge 21.1.232 + retrait embeddium/sodiumoptionsapi",
+    "changelog":  "Moon Craft 2.1.3 - MoonCore: marqueur de connexion (overlay launcher)",
     "files":  [
                   {
                       "path":  "mods/AI-Improvements-1.21-0.5.3.jar",
@@ -147,8 +147,8 @@
                   {
                       "path":  "mods/mooncore-1.0.0.jar",
                       "url":  "https://github.com/mooncraftmooncraft602-cmyk/mooncraft-neoforge/releases/download/v2.0.0/mooncore-1.0.0.jar",
-                      "sha256":  "797454f19476c6e908e27f5fed29c0f4a2b6913895252e9f8285b6d27b5cf84c",
-                      "size":  37229
+                      "sha256":  "e7ce8eeabff9538f11360735d7fb6a3466ff93b640b358938f6c2c7f92db2979",
+                      "size":  37353
                   },
                   {
                       "path":  "mods/mooncosmetics-1.0.0.jar",
