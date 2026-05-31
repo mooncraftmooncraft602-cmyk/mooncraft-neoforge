@@ -1,10 +1,10 @@
 {
-    "version":  "2.2.1",
+    "version":  "2.1.8",
     "minecraft":  "1.21.1",
     "loader":  "neoforge",
     "neoforge":  "21.1.232",
     "java":  21,
-    "changelog":  "Moon Craft 2.2.1 - Ajout stockages MoonWorld: hoppers Cristal/Asterite/Nebuline transferant jusqu a 64 items par cycle, coffres 9x4/9x5/9x6, recettes, drops et apparition dans les onglets creatifs.",
+    "changelog":  "Moon Craft 2.1.8 - interfaces affinées (SkillTree, textes nets), fix client bloqué en 2.1.4",
     "files":  [
                   {
                       "path":  "mods/AI-Improvements-1.21-0.5.3.jar",
@@ -141,13 +141,13 @@
                   {
                       "path":  "mods/mooncombat-1.0.0.jar",
                       "url":  "https://github.com/mooncraftmooncraft602-cmyk/mooncraft-neoforge/releases/download/v2.0.0/mooncombat-1.0.0.jar",
-                      "sha256":  "35fabe283e2995ac8daf4257d5e5ab751fdd49ed20d445879219e3d6d11da568",
+                      "sha256":  "095a4fe9d7ae4b9904c3feb89839934764a71e20fdee78051ac41cf420c989ef",
                       "size":  85200
                   },
                   {
                       "path":  "mods/mooncore-1.0.0.jar",
                       "url":  "https://github.com/mooncraftmooncraft602-cmyk/mooncraft-neoforge/releases/download/v2.0.0/mooncore-1.0.0.jar",
-                      "sha256":  "dab3e89e73e76e4730c82549d9a8a6c93ccb8470f21bea1dba2dfd72db795e9b",
+                      "sha256":  "293dfb3fd04bf20e1742c84cc0babdb6924dbcd4ad7bb4ad2341456bf0f1cf78",
                       "size":  61552
                   },
                   {
@@ -165,7 +165,7 @@
                   {
                       "path":  "mods/mooneconomy-1.0.0.jar",
                       "url":  "https://github.com/mooncraftmooncraft602-cmyk/mooncraft-neoforge/releases/download/v2.0.0/mooneconomy-1.0.0.jar",
-                      "sha256":  "1d8935928ccee13c0d5549934be2fc93d318280d2f6d28a375213d817a7a8cf7",
+                      "sha256":  "a557b76333685ef5cc75ae22a333bb06a6468a972db12ea242559245c2cbaf74",
                       "size":  73629
                   },
                   {
@@ -189,7 +189,7 @@
                   {
                       "path":  "mods/moonjobs-1.0.0.jar",
                       "url":  "https://github.com/mooncraftmooncraft602-cmyk/mooncraft-neoforge/releases/download/v2.0.0/moonjobs-1.0.0.jar",
-                      "sha256":  "86953545e862dfe5a4191d73cc9d02ee3b98b8ab9fa076a18a7d5043599a4374",
+                      "sha256":  "ac11010e11f9235b19df2973b2f0c3d28bd865fa618e6b141be2acc40e10f45e",
                       "size":  54509
                   },
                   {
