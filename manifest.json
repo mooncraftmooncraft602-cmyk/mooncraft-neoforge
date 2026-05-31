@@ -1,10 +1,10 @@
 {
-    "version":  "2.1.9",
+    "version":  "2.2.0",
     "minecraft":  "1.21.1",
     "loader":  "neoforge",
     "neoforge":  "21.1.232",
     "java":  21,
-    "changelog":  "Moon Craft 2.1.9 - Arbre de competences: maitrise du mana, rangs Puissance/Flux/Evolution pour toutes les competences de classe, couts MoonCoins tres chers et effets serveur reels.",
+    "changelog":  "Moon Craft 2.2.0 - Textures premium: minerais et ressources MoonWorld en 32x32 pixel-art detaille, mobs plus textures, icones de classes RPG lunaires et HUD bars retravailles.",
     "files":  [
                   {
                       "path":  "mods/AI-Improvements-1.21-0.5.3.jar",
@@ -147,8 +147,8 @@
                   {
                       "path":  "mods/mooncore-1.0.0.jar",
                       "url":  "https://github.com/mooncraftmooncraft602-cmyk/mooncraft-neoforge/releases/download/v2.0.0/mooncore-1.0.0.jar",
-                      "sha256":  "186a866314d70e615953ecc07d9f5b0729b5c64ba9c4acc0c7c90f61270f7049",
-                      "size":  48459
+                      "sha256":  "dab3e89e73e76e4730c82549d9a8a6c93ccb8470f21bea1dba2dfd72db795e9b",
+                      "size":  61552
                   },
                   {
                       "path":  "mods/mooncosmetics-1.0.0.jar",
@@ -201,8 +201,8 @@
                   {
                       "path":  "mods/moonworld-1.0.0.jar",
                       "url":  "https://github.com/mooncraftmooncraft602-cmyk/mooncraft-neoforge/releases/download/v2.0.0/moonworld-1.0.0.jar",
-                      "sha256":  "3360685d87070e946041c8f8ea442bd10bec97bfbe4d2d25225bf8382a97e2ab",
-                      "size":  35779
+                      "sha256":  "e06e8bb9f92d496bb4ed5da39a3337064f7a1bd8d765b80aac022cb2942c0ecb",
+                      "size":  46657
                   },
                   {
                       "path":  "mods/MoreAndMoreArmorNEOFORGE1211UPDATE.jar",
@@ -255,8 +255,8 @@
                   {
                       "path":  "resourcepacks/MoonCraft-ResourcePack.zip",
                       "url":  "https://github.com/mooncraftmooncraft602-cmyk/mooncraft-neoforge/releases/download/v2.0.0/MoonCraft-ResourcePack.zip",
-                      "sha256":  "74d276034adbe22dc6788a5be797024856aa2b0a1f384f65ef25bd807ba6c31f",
-                      "size":  154616
+                      "sha256":  "f99f54b2266c04a07b4852c0bf05ef224c6d5ffe04b0e605eec7384d48baca5a",
+                      "size":  289306
                   }
               ]
 }
