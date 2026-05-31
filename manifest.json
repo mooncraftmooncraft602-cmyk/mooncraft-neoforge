@@ -1,10 +1,10 @@
 {
-    "version":  "2.1.10",
+    "version":  "2.2.2",
     "minecraft":  "1.21.1",
     "loader":  "neoforge",
     "neoforge":  "21.1.232",
     "java":  21,
-    "changelog":  "Moon Craft 2.1.10 - texte net (fix flou /shop et toutes les interfaces)",
+    "changelog":  "Moon Craft 2.2.1 - Ajout stockages MoonWorld: hoppers Cristal/Asterite/Nebuline transferant jusqu a 64 items par cycle, coffres 9x4/9x5/9x6, recettes, drops et apparition dans les onglets creatifs.",
     "files":  [
                   {
                       "path":  "mods/AI-Improvements-1.21-0.5.3.jar",
@@ -195,7 +195,7 @@
                   {
                       "path":  "mods/moonquests-1.0.0.jar",
                       "url":  "https://github.com/mooncraftmooncraft602-cmyk/mooncraft-neoforge/releases/download/v2.0.0/moonquests-1.0.0.jar",
-                      "sha256":  "3af3c9a8dcdab8103e78e7103d1dc948a78e897a319d45c4ee8d6cfb5658fa34",
+                      "sha256":  "d4e882a9c70b3616daebddde594dcd00c3b298c047309341df2b2bd8dfdfcbd4",
                       "size":  36350
                   },
                   {
