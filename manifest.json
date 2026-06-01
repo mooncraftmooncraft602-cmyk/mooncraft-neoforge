@@ -1,10 +1,10 @@
 {
-    "version":  "2.2.5",
+    "version":  "2.2.6",
     "minecraft":  "1.21.1",
     "loader":  "neoforge",
     "neoforge":  "21.1.232",
     "java":  21,
-    "changelog":  "Moon Craft 2.2.5 - barre de stamina retiree du HUD (mana centree)",
+    "changelog":  "Moon Craft 2.2.6 - aptitudes multi-slots (jusqu\u0027a 3 touches C/X/Z, slots payants via /abilityslot) + verrou 10s apres equipement + /adminpay (OP)",
     "files":  [
                   {
                       "path":  "mods/AI-Improvements-1.21-0.5.3.jar",
@@ -141,8 +141,8 @@
                   {
                       "path":  "mods/mooncombat-1.0.0.jar",
                       "url":  "https://github.com/mooncraftmooncraft602-cmyk/mooncraft-neoforge/releases/download/v2.0.0/mooncombat-1.0.0.jar",
-                      "sha256":  "5930e5186c66e2b65de1741ce380540189dbc07b17dc9e472fcb2df4923b3c70",
-                      "size":  85453
+                      "sha256":  "503f4cb43c84029986795f5297ce6361206880f6e3b0491ab91f467fafd35f42",
+                      "size":  89350
                   },
                   {
                       "path":  "mods/mooncore-1.0.0.jar",
@@ -165,8 +165,8 @@
                   {
                       "path":  "mods/mooneconomy-1.0.0.jar",
                       "url":  "https://github.com/mooncraftmooncraft602-cmyk/mooncraft-neoforge/releases/download/v2.0.0/mooneconomy-1.0.0.jar",
-                      "sha256":  "cd9c61716edcd5fe6f2cacd55016db19eabe925934f60e6df1b901389580b39a",
-                      "size":  73599
+                      "sha256":  "d9ce0f49a211f733ce59efeb5170612f9716a29e06c6861dd5bdb2e161b768ce",
+                      "size":  74373
                   },
                   {
                       "path":  "mods/moonessentials-1.0.0.jar",
