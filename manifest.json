@@ -1,10 +1,10 @@
 {
-    "version":  "2.2.7",
+    "version":  "2.2.8",
     "minecraft":  "1.21.1",
     "loader":  "neoforge",
     "neoforge":  "21.1.232",
     "java":  21,
-    "changelog":  "Moon Craft 2.2.7 - arbre de competences : aptitudes a paliers, prerequis obligatoires (debloque du plus faible au plus fort)",
+    "changelog":  "Moon Craft 2.2.8 - arbre de competences a prerequis (paliers) + refonte HUD + correction build 2.2.7",
     "files":  [
                   {
                       "path":  "mods/AI-Improvements-1.21-0.5.3.jar",
@@ -141,68 +141,68 @@
                   {
                       "path":  "mods/mooncombat-1.0.0.jar",
                       "url":  "https://github.com/mooncraftmooncraft602-cmyk/mooncraft-neoforge/releases/download/v2.0.0/mooncombat-1.0.0.jar",
-                      "sha256":  "186c6e4703b37ee01d9b7d71cf5fa430ebe361b3cac053e0df6fc5a408709fb5",
-                      "size":  89356
+                      "sha256":  "f742108f5f9aafbd5240ab3e2cce375ac25a59477b28638aa53cb4c09849910e",
+                      "size":  90284
                   },
                   {
                       "path":  "mods/mooncore-1.0.0.jar",
                       "url":  "https://github.com/mooncraftmooncraft602-cmyk/mooncraft-neoforge/releases/download/v2.0.0/mooncore-1.0.0.jar",
-                      "sha256":  "062abbf03341db888e966a77dd2511c8f6d4150aae0bb3259ca65fb8bd96d3c2",
-                      "size":  4286579
+                      "sha256":  "447149d71e1601593d483081854c2583440d067f9e7a706677e2e9f0e390d49d",
+                      "size":  6076935
                   },
                   {
                       "path":  "mods/mooncosmetics-1.0.0.jar",
                       "url":  "https://github.com/mooncraftmooncraft602-cmyk/mooncraft-neoforge/releases/download/v2.0.0/mooncosmetics-1.0.0.jar",
-                      "sha256":  "3721fec0a82fa004d8b356bb03c03362efac7774068946b0a1c0a4f77e22602b",
-                      "size":  30512
+                      "sha256":  "2c93603d4ea2a533680a3811303586ba128f9b0ec252be1b704637614b9cd089",
+                      "size":  30761
                   },
                   {
                       "path":  "mods/moondungeons-1.0.0.jar",
                       "url":  "https://github.com/mooncraftmooncraft602-cmyk/mooncraft-neoforge/releases/download/v2.0.0/moondungeons-1.0.0.jar",
-                      "sha256":  "bfa62239dcfd9c34e9d7b2696f7f7a8005f6934be67dde2f4e344bffacf82d45",
-                      "size":  26422
+                      "sha256":  "cac173b16d9ddcb823feecb1a92f9806084544771dd15b810df038bcd92be77e",
+                      "size":  26699
                   },
                   {
                       "path":  "mods/mooneconomy-1.0.0.jar",
                       "url":  "https://github.com/mooncraftmooncraft602-cmyk/mooncraft-neoforge/releases/download/v2.0.0/mooneconomy-1.0.0.jar",
-                      "sha256":  "d9ce0f49a211f733ce59efeb5170612f9716a29e06c6861dd5bdb2e161b768ce",
-                      "size":  74373
+                      "sha256":  "e3240c4aae0e2046a12d18f217fe10acdd633d2c32d767915a3652582d18c853",
+                      "size":  74372
                   },
                   {
                       "path":  "mods/moonessentials-1.0.0.jar",
                       "url":  "https://github.com/mooncraftmooncraft602-cmyk/mooncraft-neoforge/releases/download/v2.0.0/moonessentials-1.0.0.jar",
-                      "sha256":  "1961abe286ef5604cf72b7c93653a35ff93b361398293dc0b3a6a73c733c03de",
+                      "sha256":  "b484b066fcb7adbe9fdf20cf487dba957373842e9a33a62edc543531334d6662",
                       "size":  32685
                   },
                   {
                       "path":  "mods/moonguard-1.0.0.jar",
                       "url":  "https://github.com/mooncraftmooncraft602-cmyk/mooncraft-neoforge/releases/download/v2.0.0/moonguard-1.0.0.jar",
-                      "sha256":  "10b2d89d67b0cf2680e5e22ca1140db66673aae80dd9cc4f7def309ad55eb186",
-                      "size":  44020
+                      "sha256":  "597f4890abd78ea52e8b7221afa2ba280bdb86fb0969f24c1570bbf6da66e7f2",
+                      "size":  44283
                   },
                   {
                       "path":  "mods/moonguildes-1.0.0.jar",
                       "url":  "https://github.com/mooncraftmooncraft602-cmyk/mooncraft-neoforge/releases/download/v2.0.0/moonguildes-1.0.0.jar",
-                      "sha256":  "d5e0c25fb64fed8a6e422ac1760732760a4740de7c4aa889ad7ba88160a29491",
+                      "sha256":  "a04126f562701538f3c0e2e6211598b8782b1e5e4655ae2af64ec8ecacd2837b",
                       "size":  17158
                   },
                   {
                       "path":  "mods/moonjobs-1.0.0.jar",
                       "url":  "https://github.com/mooncraftmooncraft602-cmyk/mooncraft-neoforge/releases/download/v2.0.0/moonjobs-1.0.0.jar",
-                      "sha256":  "557e237304c10381b83e6a83439c22c96c642bf274591e2b9663ba10d50e18a1",
-                      "size":  54497
+                      "sha256":  "39669400ec7c18b2998126ebf63525f094bbc9612089de9a653d3122e0cadebb",
+                      "size":  54695
                   },
                   {
                       "path":  "mods/moonquests-1.0.0.jar",
                       "url":  "https://github.com/mooncraftmooncraft602-cmyk/mooncraft-neoforge/releases/download/v2.0.0/moonquests-1.0.0.jar",
-                      "sha256":  "733c5c1322a51af4996f8461c663d0f736285212364fdae07056c0f3e67c7890",
-                      "size":  36342
+                      "sha256":  "64d554af11c97bb3e4dd8fa31ce909974d860c7008904fb89f4b9c43cffad9ba",
+                      "size":  36429
                   },
                   {
                       "path":  "mods/moonworld-1.0.0.jar",
                       "url":  "https://github.com/mooncraftmooncraft602-cmyk/mooncraft-neoforge/releases/download/v2.0.0/moonworld-1.0.0.jar",
-                      "sha256":  "ce85e89086f04b3bb083e3d3a5aebc065875a4394dd838441f5717ff0f6137eb",
-                      "size":  99108
+                      "sha256":  "06ef4ffaf82398366948243dd9dda73356e44a7b47bc446e2e1465043fb87bd7",
+                      "size":  100305
                   },
                   {
                       "path":  "mods/MoreAndMoreArmorNEOFORGE1211UPDATE.jar",
