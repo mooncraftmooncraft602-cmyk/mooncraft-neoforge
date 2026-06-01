@@ -1,10 +1,10 @@
 {
-    "version":  "2.2.4",
+    "version":  "2.2.5",
     "minecraft":  "1.21.1",
     "loader":  "neoforge",
     "neoforge":  "21.1.232",
     "java":  21,
-    "changelog":  "Moon Craft 2.2.4 - fix flou UI (MoonScreen) + anti-cheat renforce (Jesus/NoSlow/Aimbot/AutoClicker/vitesse soutenue) + detection \u0026 blocage des clients de triche (CheatUtils, Wurst...)",
+    "changelog":  "Moon Craft 2.2.5 - barre de stamina retiree du HUD (mana centree)",
     "files":  [
                   {
                       "path":  "mods/AI-Improvements-1.21-0.5.3.jar",
@@ -147,8 +147,8 @@
                   {
                       "path":  "mods/mooncore-1.0.0.jar",
                       "url":  "https://github.com/mooncraftmooncraft602-cmyk/mooncraft-neoforge/releases/download/v2.0.0/mooncore-1.0.0.jar",
-                      "sha256":  "2093e0263a9779fe6bc3085c03e4f33e2dbf813544f83ff3fd373f0bd91268aa",
-                      "size":  65693
+                      "sha256":  "062abbf03341db888e966a77dd2511c8f6d4150aae0bb3259ca65fb8bd96d3c2",
+                      "size":  4286579
                   },
                   {
                       "path":  "mods/mooncosmetics-1.0.0.jar",
