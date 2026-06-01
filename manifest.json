@@ -1,10 +1,10 @@
 {
-    "version":  "2.2.3",
+    "version":  "2.2.4",
     "minecraft":  "1.21.1",
     "loader":  "neoforge",
     "neoforge":  "21.1.232",
     "java":  21,
-    "changelog":  "Moon Craft 2.2.3 - anti-cheat: plus de faux positifs vitesse (sprint/saut) ni sur les capacites + resource pack force",
+    "changelog":  "Moon Craft 2.2.4 - fix flou UI (MoonScreen) + anti-cheat renforce (Jesus/NoSlow/Aimbot/AutoClicker/vitesse soutenue) + detection \u0026 blocage des clients de triche (CheatUtils, Wurst...)",
     "files":  [
                   {
                       "path":  "mods/AI-Improvements-1.21-0.5.3.jar",
@@ -141,20 +141,20 @@
                   {
                       "path":  "mods/mooncombat-1.0.0.jar",
                       "url":  "https://github.com/mooncraftmooncraft602-cmyk/mooncraft-neoforge/releases/download/v2.0.0/mooncombat-1.0.0.jar",
-                      "sha256":  "09926c148b580227a685f8788933ebb3400940014ba797d54851c1eb96def384",
-                      "size":  85457
+                      "sha256":  "5930e5186c66e2b65de1741ce380540189dbc07b17dc9e472fcb2df4923b3c70",
+                      "size":  85453
                   },
                   {
                       "path":  "mods/mooncore-1.0.0.jar",
                       "url":  "https://github.com/mooncraftmooncraft602-cmyk/mooncraft-neoforge/releases/download/v2.0.0/mooncore-1.0.0.jar",
-                      "sha256":  "2cd553dbcca4a7c755e076c0c6aba9ac37d9b2117279733e7b82f2d8774e8a26",
-                      "size":  62698
+                      "sha256":  "2093e0263a9779fe6bc3085c03e4f33e2dbf813544f83ff3fd373f0bd91268aa",
+                      "size":  65693
                   },
                   {
                       "path":  "mods/mooncosmetics-1.0.0.jar",
                       "url":  "https://github.com/mooncraftmooncraft602-cmyk/mooncraft-neoforge/releases/download/v2.0.0/mooncosmetics-1.0.0.jar",
-                      "sha256":  "d7ea61f50be3f0d99e3903b394905785cdd7aaa43436997ae17e02361771d5ec",
-                      "size":  30517
+                      "sha256":  "3721fec0a82fa004d8b356bb03c03362efac7774068946b0a1c0a4f77e22602b",
+                      "size":  30512
                   },
                   {
                       "path":  "mods/moondungeons-1.0.0.jar",
@@ -165,8 +165,8 @@
                   {
                       "path":  "mods/mooneconomy-1.0.0.jar",
                       "url":  "https://github.com/mooncraftmooncraft602-cmyk/mooncraft-neoforge/releases/download/v2.0.0/mooneconomy-1.0.0.jar",
-                      "sha256":  "a557b76333685ef5cc75ae22a333bb06a6468a972db12ea242559245c2cbaf74",
-                      "size":  73629
+                      "sha256":  "cd9c61716edcd5fe6f2cacd55016db19eabe925934f60e6df1b901389580b39a",
+                      "size":  73599
                   },
                   {
                       "path":  "mods/moonessentials-1.0.0.jar",
@@ -177,8 +177,8 @@
                   {
                       "path":  "mods/moonguard-1.0.0.jar",
                       "url":  "https://github.com/mooncraftmooncraft602-cmyk/mooncraft-neoforge/releases/download/v2.0.0/moonguard-1.0.0.jar",
-                      "sha256":  "197e794d4669d58f37931ca4831d7b49fc3b8b08c4c544b3e3c51d0ae72c9022",
-                      "size":  42241
+                      "sha256":  "10b2d89d67b0cf2680e5e22ca1140db66673aae80dd9cc4f7def309ad55eb186",
+                      "size":  44020
                   },
                   {
                       "path":  "mods/moonguildes-1.0.0.jar",
@@ -189,14 +189,14 @@
                   {
                       "path":  "mods/moonjobs-1.0.0.jar",
                       "url":  "https://github.com/mooncraftmooncraft602-cmyk/mooncraft-neoforge/releases/download/v2.0.0/moonjobs-1.0.0.jar",
-                      "sha256":  "ac11010e11f9235b19df2973b2f0c3d28bd865fa618e6b141be2acc40e10f45e",
-                      "size":  54509
+                      "sha256":  "557e237304c10381b83e6a83439c22c96c642bf274591e2b9663ba10d50e18a1",
+                      "size":  54497
                   },
                   {
                       "path":  "mods/moonquests-1.0.0.jar",
                       "url":  "https://github.com/mooncraftmooncraft602-cmyk/mooncraft-neoforge/releases/download/v2.0.0/moonquests-1.0.0.jar",
-                      "sha256":  "d4e882a9c70b3616daebddde594dcd00c3b298c047309341df2b2bd8dfdfcbd4",
-                      "size":  36350
+                      "sha256":  "733c5c1322a51af4996f8461c663d0f736285212364fdae07056c0f3e67c7890",
+                      "size":  36342
                   },
                   {
                       "path":  "mods/moonworld-1.0.0.jar",
